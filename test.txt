@@ -1,0 +1,11 @@
+Ligne 2: `2121350687300` - Prog: `Sécurité Informatique  -  Admi...` - Sect: ``
+Ligne 3: `2323323080110` - Prog: `Programmation web  -  Introduc...` - Sect: `A`
+Ligne 4: `2323316580050` - Prog: `Intelligence Artificielle et O...` - Sect: ``
+Ligne 5: `2222316262040` - Prog: `Intelligence Artificielle et O...` - Sect: ``
+Ligne 6: `2121310904060` - Prog: `Intelligence Artificielle et O...` - Sect: ``
+Ligne 7: `2323314413130` - Prog: `Programmation web  -  Introduc...` - Sect: `A`
+Ligne 8: `2323316829160` - Prog: `Programmation web  -  Introduc...` - Sect: `A`
+Ligne 9: `2323313606090` - Prog: `Programmation web  -  Introduc...` - Sect: `A`
+Ligne 10: `2323317398080` - Prog: `Programmation web  -  Introduc...` - Sect: `A`
+Ligne 11: `2323314411070` - Prog: `Programmation web  -  Introduc...` - Sect: `A`
+... et 286 autres

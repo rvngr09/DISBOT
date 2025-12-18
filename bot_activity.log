@@ -1,0 +1,72 @@
+2025-12-18 23:52:32,629 [WARNING] PyNaCl is not installed, voice will NOT be supported
+2025-12-18 23:52:32,630 [INFO] logging in using static token
+2025-12-18 23:52:33,705 [INFO] Shard ID None has connected to Gateway (Session ID: 7ba813513197f36848f153f8ab6a1be4).
+2025-12-18 23:52:35,773 [INFO] Bot connecté: SERVER MANAGER BOT (ID: 1422583848537165864)
+2025-12-18 23:52:35,774 [INFO] Servers: 4
+2025-12-18 23:52:35,838 [INFO] En-têtes Excel trouvées: ['Horodateur', 'Adresse e-mail', 'Choix 1', 'Choix 2', 'Choix 3', 'Nom et Prénom', 'Matricule', 'Sect', 'Affectation', 'Section Prog. Web']
+2025-12-18 23:52:35,841 [INFO] 100 matricules valides chargés
+2025-12-18 23:52:47,256 [INFO] Validation tentative: rvngr2.0 -> '232331666205'
+2025-12-18 23:57:20,442 [WARNING] PyNaCl is not installed, voice will NOT be supported
+2025-12-18 23:57:20,443 [INFO] logging in using static token
+2025-12-18 23:57:21,890 [INFO] Shard ID None has connected to Gateway (Session ID: 28069280173f4915c2681b05c556cc04).
+2025-12-18 23:57:23,951 [INFO] Bot connecté: SERVER MANAGER BOT (ID: 1422583848537165864)
+2025-12-18 23:57:23,951 [INFO] Servers: 4
+2025-12-18 23:57:24,023 [INFO] En-têtes Excel trouvées: ['Horodateur', 'Adresse e-mail', 'Choix 1', 'Choix 2', 'Choix 3', 'Nom et Prénom', 'Matricule', 'Sect', 'Affectation', 'Section Prog. Web']
+2025-12-18 23:57:24,027 [INFO] 100 matricules valides chargés
+2025-12-18 23:57:30,661 [INFO] Validation tentative: rvngr2.0 -> 'DEBUG232331666205'
+2025-12-18 23:57:57,649 [INFO] Validation tentative: rvngr2.0 -> '232331666205'
+2025-12-18 23:58:03,961 [INFO] Validation tentative: rvngr2.0 -> '232331419720'
+2025-12-18 23:58:13,224 [INFO] Validation tentative: rvngr2.0 -> 'RELOAD'
+2025-12-18 23:58:13,461 [ERROR] Erreur de commande: Command "reload" is not found
+2025-12-18 23:58:22,320 [INFO] Validation tentative: rvngr2.0 -> 'CHECKALL'
+2025-12-19 00:00:26,723 [INFO] Validation tentative: rvngr2.0 -> 'DEBUG232331633608DEBUG232331667819DEBUG212231455913DEBUG232331353715DEBUG232331431311DEBUG232331624118DEBUG222231411705'
+2025-12-19 00:00:32,926 [INFO] Validation tentative: rvngr2.0 -> 'DEBUG232331667819'
+2025-12-19 00:00:37,596 [INFO] Validation tentative: rvngr2.0 -> 'DEBUG212231455913'
+2025-12-19 00:02:55,458 [WARNING] PyNaCl is not installed, voice will NOT be supported
+2025-12-19 00:02:55,460 [INFO] logging in using static token
+2025-12-19 00:02:57,206 [INFO] Shard ID None has connected to Gateway (Session ID: 327e1b3d6629890c3527f04b5372aaf1).
+2025-12-19 00:02:59,244 [INFO] Bot connecté: SERVER MANAGER BOT (ID: 1422583848537165864)
+2025-12-19 00:02:59,244 [INFO] Servers: 4
+2025-12-19 00:02:59,393 [INFO] En-têtes Excel trouvées: ['Horodateur', 'Adresse e-mail', 'Choix 1', 'Choix 2', 'Choix 3', 'Nom et Prénom', 'Matricule', 'Sect', 'Affectation', 'Section Prog. Web']
+2025-12-19 00:02:59,405 [INFO] 100 matricules valides chargés
+2025-12-19 00:03:23,703 [WARNING] PyNaCl is not installed, voice will NOT be supported
+2025-12-19 00:03:23,704 [INFO] logging in using static token
+2025-12-19 00:03:24,804 [INFO] Shard ID None has connected to Gateway (Session ID: efe957b32dfe954e22ff1349db661757).
+2025-12-19 00:03:26,874 [INFO] Bot connecté: SERVER MANAGER BOT (ID: 1422583848537165864)
+2025-12-19 00:03:26,875 [INFO] Servers: 4
+2025-12-19 00:03:26,964 [INFO] En-têtes Excel: ['Horodateur', 'Adresse e-mail', 'Choix 1', 'Choix 2', 'Choix 3', 'Nom et Prénom', 'Matricule', 'Sect', 'Affectation', 'Section Prog. Web']
+2025-12-19 00:03:26,965 [INFO] Colonne Matricule trouvée: index 6
+2025-12-19 00:03:26,965 [INFO] Colonne Section trouvée: index 7
+2025-12-19 00:03:26,965 [INFO] Colonne Programme trouvée: index 8
+2025-12-19 00:03:26,965 [INFO] Colonne Programme trouvée: index 9
+2025-12-19 00:03:26,972 [INFO] ✅ 83 matricules valides chargés
+2025-12-19 00:03:26,972 [INFO] Exemple matricules valides: ['232331717512', '232331414605', '222231580304', '232331657910', '232331388006', '232331738905', '232331413913', '222231451409', '232331386720', '232331519308']
+2025-12-19 00:03:28,433 [INFO] Validation tentative: rvngr2.0 -> 'EXCELINFO'
+2025-12-19 00:03:38,938 [INFO] Validation tentative: rvngr2.0 -> 'FIND212231455913'
+2025-12-19 00:03:55,682 [INFO] Validation tentative: rvngr2.0 -> '232331666205'
+2025-12-19 00:04:03,025 [INFO] Validation tentative: rvngr2.0 -> '212231455913'
+2025-12-19 00:04:11,413 [INFO] Validation tentative: rvngr2.0 -> '2122314559130'
+2025-12-19 00:04:25,906 [INFO] Validation tentative: rvngr2.0 -> '2122314559130'
+2025-12-19 00:07:06,029 [WARNING] PyNaCl is not installed, voice will NOT be supported
+2025-12-19 00:07:06,031 [INFO] logging in using static token
+2025-12-19 00:07:07,037 [INFO] Shard ID None has connected to Gateway (Session ID: 88b126b4f9e03f9f76c7d019d4e7f4a8).
+2025-12-19 00:07:09,101 [INFO] Bot connecté: SERVER MANAGER BOT (ID: 1422583848537165864)
+2025-12-19 00:07:09,101 [INFO] Servers: 4
+2025-12-19 00:07:09,157 [INFO] En-têtes: ['Horodateur', 'Adresse e-mail', 'Choix 1', 'Choix 2', 'Choix 3', 'Nom et Prénom', 'Matricule', 'Sect', 'Affectation', 'Section Prog. Web']
+2025-12-19 00:07:09,157 [INFO] Colonnes utilisées: {'matricule': 6, 'program': 8, 'section': 9}
+2025-12-19 00:07:09,159 [INFO] DEBUG 212231455913: Program='programmation web  -  introduction à l'ia...', Section='B'
+2025-12-19 00:07:09,159 [INFO] ✓ MATRICULE ACCEPTÉ: 212231455913
+2025-12-19 00:07:09,160 [INFO] ✅ 100 matricules valides chargés
+2025-12-19 00:07:09,160 [INFO] Exemples de rejets: ["212135068730: Section incorrecte: '' (attendu 'B')", "232332308011: Section incorrecte: 'A' (attendu 'B')", "232331658005: Section incorrecte: '' (attendu 'B')", "222231626204: Section incorrecte: '' (attendu 'B')", "212131090406: Section incorrecte: '' (attendu 'B')"]
+2025-12-19 00:07:31,540 [INFO] Validation tentative: rvngr2.0 -> '232331666205'
+2025-12-19 00:07:37,567 [INFO] Validation tentative: rvngr2.0 -> 'ALHMDL'
+2025-12-19 00:07:38,149 [INFO] Rôle retiré pour rvngr2.0 (matricule invalide)
+2025-12-19 00:07:40,963 [INFO] Validation tentative: rvngr2.0 -> 'FUCKU'
+2025-12-19 00:07:46,720 [INFO] Validation tentative: rvngr2.0 -> '232331666205'
+2025-12-19 00:07:59,210 [INFO] Validation tentative: ramydjeffal -> 'Y'
+2025-12-19 00:07:59,211 [INFO] Validation tentative: rvngr2.0 -> '232331453817'
+2025-12-19 00:07:59,806 [INFO] Rôle retiré pour rvngr2.0 (matricule invalide)
+2025-12-19 00:07:59,888 [INFO] Rôle retiré pour ramydjeffal (matricule invalide)
+2025-12-19 00:08:04,830 [INFO] Validation tentative: rvngr2.0 -> 'KHBTNALES2'
+2025-12-19 00:08:06,970 [INFO] Validation tentative: ramydjeffal -> '212231455913'
+2025-12-19 00:08:13,370 [INFO] Validation tentative: rvngr2.0 -> '232331666205'
