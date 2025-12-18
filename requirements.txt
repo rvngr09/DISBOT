@@ -1,28 +1,4 @@
-# Core Discord bot
 discord.py==2.3.2
-
-# Excel file handling
 openpyxl==3.1.2
-
-# Environment variables
 python-dotenv==1.0.0
-
-# Web server for keeping bot alive (Render/Railway)
 Flask==2.3.3
-gunicorn==21.2.0
-
-# Optional: For better async/await performance
-aiohttp==3.9.1
-aiofiles==23.2.1
-
-# Optional: For advanced date/time handling
-pytz==2023.3
-
-# Optional: For HTTP requests (if adding webhook features)
-requests==2.31.0
-
-# Optional: For logging
-colorlog==6.8.0
-
-# Optional: For data validation
-pydantic==2.5.0
